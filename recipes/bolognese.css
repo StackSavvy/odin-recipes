@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Metal", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.recipe_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+
+}
